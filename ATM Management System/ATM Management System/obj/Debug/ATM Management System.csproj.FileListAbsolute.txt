@@ -1,0 +1,147 @@
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\ATM Management System.exe.config
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\ATM Management System.exe
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\ATM Management System.pdb
+D:\Amr\Work\projects\ATM Management System\ATM Management System\obj\Debug\ATM Management System.csproj.AssemblyReference.cache
+D:\Amr\Work\projects\ATM Management System\ATM Management System\obj\Debug\ATM Management System.csproj.SuggestedBindingRedirects.cache
+D:\Amr\Work\projects\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.LoginPage.resources
+D:\Amr\Work\projects\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.Properties.Resources.resources
+D:\Amr\Work\projects\ATM Management System\ATM Management System\obj\Debug\ATM Management System.csproj.GenerateResource.cache
+D:\Amr\Work\projects\ATM Management System\ATM Management System\obj\Debug\ATM Management System.csproj.CoreCompileInputs.cache
+D:\Amr\Work\projects\ATM Management System\ATM Management System\obj\Debug\ATM Management System.csproj.CopyComplete
+D:\Amr\Work\projects\ATM Management System\ATM Management System\obj\Debug\ATM Management System.exe
+D:\Amr\Work\projects\ATM Management System\ATM Management System\obj\Debug\ATM Management System.pdb
+D:\Amr\Work\projects\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.MainPage.resources
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\Avalonia.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\Avalonia.Animation.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\Avalonia.Base.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\Avalonia.Controls.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\Avalonia.DesignerSupport.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\Avalonia.DesktopRuntime.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\Avalonia.Dialogs.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\Avalonia.Input.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\Avalonia.Interactivity.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\Avalonia.Layout.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\Avalonia.Markup.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\Avalonia.Markup.Xaml.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\Avalonia.MicroCom.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\Avalonia.OpenGL.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\Avalonia.Remote.Protocol.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\Avalonia.Styling.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\Avalonia.Themes.Default.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\Avalonia.Themes.Fluent.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\Avalonia.Visuals.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\JetBrains.Annotations.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\System.Buffers.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\System.Memory.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\System.Numerics.Vectors.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\System.Reactive.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\System.ValueTuple.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\System.Drawing.Common.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\Newtonsoft.Json.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.LoadingPage.resources
+D:\Amr\Work\projects\ATM Management System\ATM Management System\obj\Debug\ATM Management System.csproj.Fody.CopyLocal.cache
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\RestSharp.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\System.CodeDom.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\System.Data.Odbc.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\System.Data.OleDb.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\System.Data.SqlClient.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\System.Diagnostics.EventLog.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\System.IO.Packaging.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\System.IO.Ports.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\System.Security.AccessControl.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\System.Security.Permissions.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\System.Security.Principal.Windows.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\System.ServiceModel.Syndication.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\bin\Debug\System.Threading.AccessControl.xml
+D:\Amr\Work\projects\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.BalancePage.resources
+D:\Amr\Work\projects\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.CurrencyExchangePage.resources
+D:\Amr\Work\projects\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.WithdrawPage.resources
+D:\Amr\Work\projects\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.DepositPage.resources
+D:\Amr\Work\projects\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.FastCashPage.resources
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\ATM Management System.exe.config
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\ATM Management System.exe
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\ATM Management System.pdb
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\Avalonia.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\Avalonia.Animation.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\Avalonia.Base.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\Avalonia.Controls.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\Avalonia.DesignerSupport.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\Avalonia.DesktopRuntime.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\Avalonia.Dialogs.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\Avalonia.Input.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\Avalonia.Interactivity.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\Avalonia.Layout.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\Avalonia.Markup.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\Avalonia.Markup.Xaml.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\Avalonia.MicroCom.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\Avalonia.OpenGL.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\Avalonia.Remote.Protocol.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\Avalonia.Styling.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\Avalonia.Themes.Default.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\Avalonia.Themes.Fluent.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\Avalonia.Visuals.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\JetBrains.Annotations.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\Microsoft.Win32.Registry.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\Newtonsoft.Json.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\RestSharp.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\System.Buffers.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\System.CodeDom.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\System.Data.Odbc.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\System.Data.OleDb.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\System.Data.SqlClient.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\System.Diagnostics.EventLog.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\System.Drawing.Common.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\System.IO.Packaging.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\System.IO.Ports.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\System.Memory.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\System.Numerics.Vectors.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\System.Reactive.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\System.Security.AccessControl.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\System.Security.Permissions.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\System.Security.Principal.Windows.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\System.ServiceModel.Syndication.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\System.Threading.AccessControl.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\ATM Management System\ATM Management System\ATM Management System\bin\Debug\System.ValueTuple.xml
+E:\ATM Management System\ATM Management System\ATM Management System\obj\Debug\ATM Management System.csproj.AssemblyReference.cache
+E:\ATM Management System\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.BalancePage.resources
+E:\ATM Management System\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.CurrencyExchangePage.resources
+E:\ATM Management System\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.DepositPage.resources
+E:\ATM Management System\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.FastCashPage.resources
+E:\ATM Management System\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.LoadingPage.resources
+E:\ATM Management System\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.LoginPage.resources
+E:\ATM Management System\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.MainPage.resources
+E:\ATM Management System\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.Properties.Resources.resources
+E:\ATM Management System\ATM Management System\ATM Management System\obj\Debug\ATM_Management_System.WithdrawPage.resources
+E:\ATM Management System\ATM Management System\ATM Management System\obj\Debug\ATM Management System.csproj.GenerateResource.cache
+E:\ATM Management System\ATM Management System\ATM Management System\obj\Debug\ATM Management System.csproj.CoreCompileInputs.cache
+E:\ATM Management System\ATM Management System\ATM Management System\obj\Debug\ATM Management System.csproj.Fody.CopyLocal.cache
+E:\ATM Management System\ATM Management System\ATM Management System\obj\Debug\ATM Management System.csproj.CopyComplete
+E:\ATM Management System\ATM Management System\ATM Management System\obj\Debug\ATM Management System.exe
+E:\ATM Management System\ATM Management System\ATM Management System\obj\Debug\ATM Management System.pdb
